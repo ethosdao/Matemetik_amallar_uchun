@@ -1,0 +1,2 @@
+# Matemetik_amallar_uchun
+Murakkab_matematik_amallar
